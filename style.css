@@ -1,0 +1,16 @@
+h1 {
+  color: royalblue;
+  text-align: center;
+}
+
+h2 {
+  color: blueviolet;
+  text-align: justify;
+}
+
+#Mtn {
+  border: solid royalblue 3px;
+  border-radius: 45px;
+}
+rem=htm element stable 16px
+em is changeable of the parnet 
